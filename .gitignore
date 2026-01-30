@@ -1,0 +1,22 @@
+# ComfyUI Output
+output/
+*.mp4
+*.png
+*.jpg
+*.webp
+
+# Models
+*.safetensors
+*.gguf
+*.ckpt
+*.pt
+*.bin
+
+# System
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+.env
+__pycache__/

@@ -982,6 +982,89 @@ Optional Style Tags
 
 cinematic, ultra-realistic, dramatic lighting, realistic physics, high detail, film-quality motion
 
+Selfie in Jurassic World 2nd:😊😊
+Prompt (Jurassic World Intrusion – Full Body Subject Lock with Selfie Action)
+Subject Consistency (Primary Subject Lock – FULL BODY):
+
+The entire subject visible in the input image must remain fully visible from head to toe throughout the video.
+No cropping, no partial framing, and no occlusion of the subject at any time.
+
+No duplication, no replacement, and no transformation of the subject.
+Identity, facial features, body proportions, skin tone, hairstyle, clothing, and overall appearance remain unchanged.
+
+The subject remains in the exact same position and scale relative to the camera.
+The subject behaves naturally as a human.
+
+Initial Scene (Original Reality):
+
+The video starts as a realistic continuation of the input image.
+The entire body of the subject is clearly visible.
+The original indoor environment remains fully intact (room, lighting, walls, doorway).
+
+The subject is holding a smartphone in one hand and taking a selfie, arm slightly extended forward.
+The phone is visible, but does not block the subject’s face or body.
+The subject looks toward the phone screen with a natural, calm selfie expression.
+
+Idle motion only: breathing, blinking, subtle posture shifts.
+The camera is locked and static.
+
+Doorway Event (Jurassic Intrusion):
+
+A doorway or opening in the background becomes active.
+Through the doorway, a dense jungle environment is visible.
+
+A massive T-Rex walks through the doorway from the jungle into the room.
+
+The T-Rex:
+
+Emerges strictly from the background
+
+Maintains correct scale, depth, and realistic perspective
+
+Does not block, overlap, or obscure any part of the subject’s full body
+
+Does not touch or interact physically with the subject
+
+Remains clearly behind the subject at all times
+
+The subject continues calmly taking a selfie, aware of the scene but not reacting dramatically.
+
+World Conversion Moment (Jurassic Transformation):
+
+As the T-Rex fully enters the room:
+
+The original room gradually transforms into a Jurassic World environment
+
+Walls dissolve into jungle foliage
+
+Floor transitions into earth, vines, or stone
+
+Lighting shifts to natural jungle sunlight
+
+The transformation is smooth, cinematic, and continuous with no hard cuts.
+The subject remains fully visible, unchanged, and unaffected throughout the transition.
+The selfie action continues naturally during the environment change.
+
+Motion & Camera Rules (STRICT):
+
+No camera movement (no zoom, pan, tilt, shake, or crop)
+
+No subject scaling, sliding, or repositioning
+
+The subject remains centered and fully visible
+
+Only the environment and T-Rex change
+
+All movement is smooth, realistic, and physically correct.
+
+Final Scene:
+
+The environment is now fully Jurassic World.
+The subject remains fully visible from head to toe, still holding the phone and taking a selfie.
+The T-Rex stands or moves naturally in the background at a safe distance.
+
+The result looks like the world transformed around the subject, not the subject changing.
+
 The choosen wizard::😊😊
 Prompt (Cinematic, Step-by-Step Style)
 
@@ -1130,3 +1213,200 @@ The tone is modern, clean, playful, and relatable. The heart filter adds a light
 
 Ending:
 The video ends on a clear view of the MacBook Pro screen, subtle hearts appear gently floating above the subject’s head only. and the thumbnail strip populated with recent captures. The moment feels complete, personal, and visually satisfying.
+
+Laptop selfie vie 2nd:😊😊
+Prompt (Photo Booth Heart Filter – Laptop Screen Interaction)
+Subject (Identity Lock):
+
+The main subject is the same person, animal, or character visible in the input image.
+Their identity, facial structure, skin tone, hairstyle, clothing, proportions, and overall appearance remain fully consistent with the original image.
+No identity drift, no facial deformation, and no changes in proportions.
+Photorealistic detail and realistic anatomy are preserved at all times.
+
+Scene & Environment:
+
+The scene takes place in a casual, modern indoor environment (bedroom or personal room).
+Lighting is soft, warm, and natural, creating a relatable, everyday feel.
+The background is slightly blurred, with subtle room details visible.
+
+Opening Shot (Subject Capture):
+
+The video begins with a close-up or medium close-up of the subject, as if being photographed casually.
+The subject looks toward the camera with a neutral, relaxed, or mildly expressive face.
+Motion is minimal — gentle breathing and slight head movement only.
+The camera feels calm and observational.
+
+Laptop Interaction:
+
+The scene cuts to a MacBook Pro laptop positioned naturally on a bed or desk.
+The laptop screen displays a realistic Photo Booth–style application interface.
+The main display window shows the subject’s image, captured from the previous shot.
+
+Heart Effect (Strict but Natural):
+
+A small number of 5–6 tiny, subtle hearts appear gently floating above the subject’s head only.
+The hearts are small, soft, and delicate — never large or dominant.
+The hearts never cover or touch the face, eyes, nose, mouth, or facial features.
+No single large heart.
+No oversized or distracting heart shapes.
+The hearts remain minimal, tasteful, and secondary to the subject.
+
+Digital Realism:
+
+The Photo Booth interface looks authentic and modern.
+The laptop screen is bright, slightly reflective, and angled naturally.
+UI elements such as window borders, thumbnails, and dock icons appear realistic but unobtrusive.
+The subject’s image remains perfectly aligned inside the laptop screen, with no warping or distortion.
+
+Sequence Variation (Optional):
+
+The subject displayed on the laptop screen may change pose or expression slightly between captures while maintaining identity consistency.
+Each capture appears instantly in the thumbnail strip below, reinforcing the Photo Booth interaction.
+
+Camera & Composition (REFERENCE MOVEMENT STYLE):
+
+Camera angles alternate between:
+
+Close-up shots of the subject being captured
+
+Diagonal or angled shots focusing on the laptop screen
+
+All shots are mostly static with very subtle cinematic movement only, such as:
+
+Gentle, slow pan
+
+Soft micro push-in
+
+Minimal parallax shift
+
+Camera movement is natural, restrained, and smooth, never fast or aggressive.
+No handheld shake.
+No rapid zooms.
+Movement is slow and barely noticeable, adding depth without drawing attention.
+
+Tone & Mood:
+
+Modern, clean, playful, and relatable.
+The heart filter adds a lighthearted, expressive touch.
+The overall feeling is casual digital self-expression.
+
+Ending Shot:
+
+The video ends on a clear view of the MacBook Pro screen.
+Small, subtle hearts gently floating above the subject’s head only.
+The thumbnail strip is populated with recent captures.
+The camera maintains its soft, cinematic stillness.
+The moment feels complete, personal, and visually satisfying.
+
+
+Good Year, Good Here:😊😊
+Subject (Identity & Consistency – Strict)
+
+The main subject is the exact same person visible in the input image.
+Their identity, facial structure, skin tone, hairstyle, clothing, body proportions, and overall appearance remain fully consistent with the original image at all times.
+
+No facial changes, no identity drift, no deformation.
+Realistic human proportions and photorealistic facial details are preserved throughout the video.
+
+The subject stands naturally at the center of the frame.
+They appear emotionally present, grounded, calm, and confident.
+
+Scene & Environment (Unchanged)
+
+The scene remains exactly the same as the original input image.
+No changes to background, environment, location, or layout.
+
+Lighting is bright, natural daylight, matching the original image’s lighting conditions.
+The overall color tone is warm, uplifting, and realistic.
+
+Motion (Natural, Happy, Authentic)
+
+The video begins with subtle, natural motion only:
+
+Gentle breathing
+
+Small, natural body movements
+
+Slight environmental motion (hair, fabric, light movement)
+
+The subject reacts naturally and normally with happiness.
+
+Their facial expression gradually shifts to:
+
+A warm, genuine smile
+
+Bright, expressive eyes
+
+A relaxed, confident posture
+
+The reaction feels authentic, calm, and emotionally real, never exaggerated or artificial.
+
+2026 Element (Primary Focus Action)
+
+The subject is holding large, bold letters displaying “2026”.
+
+The “2026” text is clear, bold, and highly readable
+
+Letters are held naturally with both hands
+
+The text is centered in the frame
+
+The letters do not block the subject’s face
+
+The subject appears proud, hopeful, and confident while holding “2026”
+
+Color Requirement (Strict):
+
+The color of the “2026” letters matches and complements the existing image theme
+
+The color blends naturally with the scene’s palette
+
+No random or artificial colors
+
+The letters feel visually harmonious with the environment
+
+The “2026” element feels celebratory, symbolic, and forward-looking, representing optimism and confidence for the future.
+
+Camera & Cinematic Movement
+
+The camera moves slowly and smoothly, maintaining cinematic stability and depth:
+
+Gentle orbit or slow lateral movement
+
+Subtle push-in or soft parallax shift
+
+No fast motion
+
+No shaky camera
+
+No aggressive zooms
+
+Camera motion enhances emotion without distracting from the subject or the “2026” text.
+
+Emotional Tone
+
+The overall mood is:
+
+Positive
+
+Hopeful
+
+Calm
+
+Confident
+
+The scene conveys the feeling of stepping into 2026 with happiness, strength, and optimism.
+
+Ending Composition
+
+The video ends with:
+
+The subject centered in frame
+
+Clearly holding the bold “2026” letters
+
+A confident, relaxed smile
+
+Calm, balanced cinematic framing
+
+The final moment feels complete, emotionally uplifting, and forward-looking, leaving a strong positive impression.
